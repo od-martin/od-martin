@@ -21,7 +21,7 @@ PHP 8.3 • Joomla 6 • Helix Ultimate 2.2 • GitHub • VSC
 ---
 
 ## 🔗 Links  
-🌐 [Octi Suite](https://octi-suite.com) (site in progess) | 🎨 [octi design](https://octi-design.at) | 📬 office@octi-design.at  
+🌐 [octi Suite](https://octi-suite.com) (site in progess) | 🎨 [octi design](https://octi-design.at) | 📬 office@octi-design.at  
 
 ![Made with Joomla](https://img.shields.io/badge/Joomla-6-blue)
 ![Privacy-first](https://img.shields.io/badge/Privacy-first-success)
