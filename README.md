@@ -1,3 +1,7 @@
+![Made with Joomla](https://img.shields.io/badge/Joomla-6-blue)
+![Privacy-first](https://img.shields.io/badge/Privacy-first-success)
+![WOFF2](https://img.shields.io/badge/Fonts-WOFF2-informational)
+
 # 👋 Martin here
 
 🎨 Designer & 💻 developer crafting **privacy-friendly Joomla tools** at **octi Suite**.  
@@ -22,7 +26,3 @@ PHP 8.3 • Joomla 6 • Helix Ultimate 2.2 • GitHub • VSC
 
 ## 🔗 Links  
 🌐 [octi Suite](https://octi-suite.com) (site in progress) | 🎨 [octi design](https://octi-design.at) | 📬 office@octi-design.at  
-
-![Made with Joomla](https://img.shields.io/badge/Joomla-6-blue)
-![Privacy-first](https://img.shields.io/badge/Privacy-first-success)
-![WOFF2](https://img.shields.io/badge/Fonts-WOFF2-informational)
