@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin  
 
-<!--
-**od-martin/od-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Designer & 💻 developer crafting **privacy-friendly Joomla tools** at **Octi Suite**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building  
+- **OD Local Fonts (Joomla 6 + HelixU)** — upload & use local fonts, zero external calls, clean admin UX.
+- **OD ... (Joomla 6)** — and more... ;)
+
+---
+
+## 🧭 Focus  
+🛡️ Privacy (GDPR) ⚡ Performance (WOFF2) 🧩 Reliability (no template hacks)  
+
+---
+
+## 🛠️ Stack  
+PHP 8.3 · Joomla 6 · Helix Ultimate 2.2 · GitHub + VSC  
+
+---
+
+## 🔗 Links  
+🌐 [Octi Suite](https://octi-suite.com) (in progess) | 🎨 [octi design](https://octi-design.at) | 📬 office@octi-design.at  
