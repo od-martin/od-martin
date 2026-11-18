@@ -79,10 +79,6 @@ Visit **[octi design](https://octi-design.at)**.
 
 ---
 
-<p align="center">
-  <sub>Independent developer · Based in Austria</sub>
-</p>
-
 <!-- === COMMUNITY & SPONSORSHIP === -->
 
 ## 🏅 Community & Sponsorship
@@ -98,3 +94,9 @@ Proud Extension Sponsor of the **Joomla World Conference 2026** in Potsdam, Germ
     width="180"
   />
 </a>
+
+---
+
+<p align="center">
+  <sub>Independent developer · Based in Austria</sub>
+</p>
